@@ -1,7 +1,7 @@
 
 public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 
-    // Implementação dos métodos da interface ReprodutorMusical
+    // Implementação da interface ReprodutorMusical
 
     public void tocar() {
         System.out.println("Reproduzindo música...");
